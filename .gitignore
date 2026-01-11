@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio files (large)
+*.wav
+*.mp3
+
+# OS files
+.DS_Store
+*.txt
+
+
